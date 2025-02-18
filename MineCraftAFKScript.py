@@ -9,4 +9,4 @@ while True:
         pydirectinput.moveTo(950,750) #Align cursor to bed
         time.sleep(1) 
         pydirectinput.rightClick()  #Right click on bed sleep
-        time.sleep(5) #Amount of time to slee in bed
+        time.sleep(5) #Amount of time to sleep in bed
