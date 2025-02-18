@@ -1,4 +1,4 @@
-# MineCraftAFKScript
+# MineCraft AFK Script
 This is a simple AFK script that allows you to leave your PC while you farm away. The script utilizes mouse movement to stimulate sleeping, halving the total AFK time needed to farm.
 
 This script runs ideal when standing on top of a bed. The camera should automatically correct itself before each sleep session.
