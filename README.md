@@ -7,4 +7,4 @@ This specific script is designed for iron farming, netting an average of 300 iro
 
 By incorporating sleep, mob attacks from phantoms are mitigated in addition to being able to run the farm 24/7 as iron golems do not spawn during nighttime.
 
-A typical Minecraft day is around ~650 seconds in real life, this script runs every ~325 seconds to stimulate movement to run correctly. Testing done around ~540 to 650 seconds rendered the script to be inconsistent, a potential fix would be the introduction of gradual gradual movements.
+A typical Minecraft day is around ~650 seconds in real life, this script runs every ~325 seconds to stimulate movement to run correctly. Testing done around ~540 to 650 seconds rendered the script to be inconsistent, a potential fix would be the introduction of gradual gradual movements. One added benefit of running this script for roughly a half day in Minecraft is that you can easily launch Minecraft and this script and leave it alone as it will automatically synchronize during nighttime.
